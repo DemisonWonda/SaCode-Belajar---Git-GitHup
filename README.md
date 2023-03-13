@@ -1,5 +1,7 @@
 <body>
-  <head></head>
+  <head>
+    <title>Saya belajar SaCode Git GitHub</title>
+  </head>
   <h1>SaCode</h1>
   <h2>SaCode</h2>
   <h3>SaCode</h3>
