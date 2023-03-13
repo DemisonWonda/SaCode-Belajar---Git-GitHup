@@ -3,8 +3,6 @@
     <title>Saya belajar SaCode Git GitHub</title>
   </head>
   <h1>SaCode</h1>
-  <h2>SaCode</h2>
-  <h3>SaCode</h3>
   <h5>SaCode</h4>
   <h5>Saja Belaja Git & GitHub </h5>
   
